@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/csharp/idscan-sharp-example/.vs/idscan-sharp-example
+/csharp/idscan-sharp-example/bin/Debug/net8.0
+/csharp/idscan-sharp-example/obj
